@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OpenLab_Uloha_02._05
+namespace OpenLab_Uloha_02._06
 {
     class Program
     {
