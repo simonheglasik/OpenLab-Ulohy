@@ -1,0 +1,14 @@
+C:\Users\Spravca\source\OpenLab-Ulohy\Open-Lab-03.04\Open-Lab-03.04\obj\Debug\netcoreapp3.0\Open-Lab-03.04.csprojAssemblyReference.cache
+C:\Users\Spravca\source\OpenLab-Ulohy\Open-Lab-03.04\Open-Lab-03.04\obj\Debug\netcoreapp3.0\Open-Lab-03.04.AssemblyInfoInputs.cache
+C:\Users\Spravca\source\OpenLab-Ulohy\Open-Lab-03.04\Open-Lab-03.04\obj\Debug\netcoreapp3.0\Open-Lab-03.04.AssemblyInfo.cs
+C:\Users\Spravca\source\OpenLab-Ulohy\Open-Lab-03.04\Open-Lab-03.04\bin\Debug\netcoreapp3.0\Open-Lab-03.04.exe
+C:\Users\Spravca\source\OpenLab-Ulohy\Open-Lab-03.04\Open-Lab-03.04\bin\Debug\netcoreapp3.0\Open-Lab-03.04.deps.json
+C:\Users\Spravca\source\OpenLab-Ulohy\Open-Lab-03.04\Open-Lab-03.04\bin\Debug\netcoreapp3.0\Open-Lab-03.04.runtimeconfig.json
+C:\Users\Spravca\source\OpenLab-Ulohy\Open-Lab-03.04\Open-Lab-03.04\bin\Debug\netcoreapp3.0\Open-Lab-03.04.runtimeconfig.dev.json
+C:\Users\Spravca\source\OpenLab-Ulohy\Open-Lab-03.04\Open-Lab-03.04\bin\Debug\netcoreapp3.0\Open-Lab-03.04.dll
+C:\Users\Spravca\source\OpenLab-Ulohy\Open-Lab-03.04\Open-Lab-03.04\bin\Debug\netcoreapp3.0\Open-Lab-03.04.pdb
+C:\Users\Spravca\source\OpenLab-Ulohy\Open-Lab-03.04\Open-Lab-03.04\bin\Debug\netcoreapp3.0\nunit.framework.dll
+C:\Users\Spravca\source\OpenLab-Ulohy\Open-Lab-03.04\Open-Lab-03.04\bin\Debug\netcoreapp3.0\nunitlite.dll
+C:\Users\Spravca\source\OpenLab-Ulohy\Open-Lab-03.04\Open-Lab-03.04\obj\Debug\netcoreapp3.0\Open-Lab-03.04.csproj.CopyComplete
+C:\Users\Spravca\source\OpenLab-Ulohy\Open-Lab-03.04\Open-Lab-03.04\obj\Debug\netcoreapp3.0\Open-Lab-03.04.dll
+C:\Users\Spravca\source\OpenLab-Ulohy\Open-Lab-03.04\Open-Lab-03.04\obj\Debug\netcoreapp3.0\Open-Lab-03.04.pdb
