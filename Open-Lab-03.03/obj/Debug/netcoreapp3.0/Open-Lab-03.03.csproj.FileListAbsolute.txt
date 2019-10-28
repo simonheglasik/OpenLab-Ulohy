@@ -1,0 +1,14 @@
+C:\Users\Spravca\source\repos\OL_03.03\Open-Lab-03.03\bin\Debug\netcoreapp3.0\Open-Lab-03.03.exe
+C:\Users\Spravca\source\repos\OL_03.03\Open-Lab-03.03\bin\Debug\netcoreapp3.0\Open-Lab-03.03.deps.json
+C:\Users\Spravca\source\repos\OL_03.03\Open-Lab-03.03\bin\Debug\netcoreapp3.0\Open-Lab-03.03.runtimeconfig.json
+C:\Users\Spravca\source\repos\OL_03.03\Open-Lab-03.03\bin\Debug\netcoreapp3.0\Open-Lab-03.03.runtimeconfig.dev.json
+C:\Users\Spravca\source\repos\OL_03.03\Open-Lab-03.03\bin\Debug\netcoreapp3.0\Open-Lab-03.03.dll
+C:\Users\Spravca\source\repos\OL_03.03\Open-Lab-03.03\bin\Debug\netcoreapp3.0\Open-Lab-03.03.pdb
+C:\Users\Spravca\source\repos\OL_03.03\Open-Lab-03.03\bin\Debug\netcoreapp3.0\nunit.framework.dll
+C:\Users\Spravca\source\repos\OL_03.03\Open-Lab-03.03\bin\Debug\netcoreapp3.0\nunitlite.dll
+C:\Users\Spravca\source\repos\OL_03.03\Open-Lab-03.03\obj\Debug\netcoreapp3.0\Open-Lab-03.03.csprojAssemblyReference.cache
+C:\Users\Spravca\source\repos\OL_03.03\Open-Lab-03.03\obj\Debug\netcoreapp3.0\Open-Lab-03.03.AssemblyInfoInputs.cache
+C:\Users\Spravca\source\repos\OL_03.03\Open-Lab-03.03\obj\Debug\netcoreapp3.0\Open-Lab-03.03.AssemblyInfo.cs
+C:\Users\Spravca\source\repos\OL_03.03\Open-Lab-03.03\obj\Debug\netcoreapp3.0\Open-Lab-03.03.csproj.CopyComplete
+C:\Users\Spravca\source\repos\OL_03.03\Open-Lab-03.03\obj\Debug\netcoreapp3.0\Open-Lab-03.03.dll
+C:\Users\Spravca\source\repos\OL_03.03\Open-Lab-03.03\obj\Debug\netcoreapp3.0\Open-Lab-03.03.pdb
